@@ -2,13 +2,19 @@
 This is a Restaurant Management System project built with Flask, a Python web framework. The system provides a comprehensive solution for managing various aspects of a restaurant, including menu management, order processing, order details and customer management.
 
 **Features**
+
 • Menu Management: Add, edit, and delete menu items along with their details such as name, price, meal type.
+
 • Order Processing: Efficiently process customer orders and manage order history.
+
 • Customer Management: Maintain customer records, add their preffered items ordered.
 
 ****Technologies Used****
+
 Flask: Python web framework for building the application.
+
 SQLAlchemy: Object-Relational Mapping (ORM) library for working with the database.
+
 HTML, CSS, JavaScript: Front-end technologies for the user interface.
 
 ****User Interface****
